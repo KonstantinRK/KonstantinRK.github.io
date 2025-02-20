@@ -1,11 +1,11 @@
 ---
-title: "Talk 1 on Relevant Topic in Your Field"
+title: "PAC-Learning and Monitoring"
 collection: talks
 type: "Talk"
-permalink: /talks/2012-03-01-talk-1
-venue: "UC San Francisco, Department of Testing"
+permalink: /talks/22_slides_ELLIS
+venue: "IST Austria, ELLIS Tea Talk"
 date: 2012-03-01
-location: "San Francisco, California"
+location: "Klosterneuburg, Austria"
 ---
 
 This is a description of your talk, which is a markdown file that can be all markdown-ified like any other post. Yay markdown!

@@ -1,0 +1,14 @@
+---
+title: "Monitoring Algorithmic Fairness under Partial Observations"
+collection: publications
+category: manuscripts
+permalink: /publication/23_paper_monitoring_fairness_partial
+excerpt: 'Neural-network classifiers achieve high accuracy when predicting the class of an input that they were trained to identify. Maintaining this accuracy in dynamic environments, where inputs frequently fall outside the fixed set of initially known classes, remains a challenge. We consider the problem of monitoring the classification decisions of neural networks in the presence of novel classes. For this purpose, we generalize our recently proposed abstraction-based monitor from binary output to real-valued quantitative output. This quantitative output enables new applications, two of which we investigate in the paper. As our first application, we introduce an algorithmic framework for active monitoring of a neural network, which allows us to learn new classes dynamically and yet maintain high monitoring performance. As our second application, we present an offline procedure to retrain the neural network to improve the monitor’s detection performance without deteriorating the network’s classification accuracy. Our experimental evaluation demonstrates both the benefits of our active monitoring framework in dynamic scenarios and the effectiveness of the retraining procedure.'
+date: 2023-10-01
+venue: 'International Conference on Runtime Verification'
+slidesurl: 'http://KonstantinRK.github.io/files/23_slides_RV.pdf'
+paperurl: 'http://KonstantinRK.github.io/files/23_paper_monitoring_fairness_partial.pdf'
+# citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+---
+
+The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.

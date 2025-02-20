@@ -1,0 +1,14 @@
+---
+title: "Abstraction-Based Decision Making for Statistical Properties"
+collection: publications
+category: manuscripts
+permalink: /publication/24_paper_statistical_abstraction
+excerpt: 'Sequential decision-making in probabilistic environments is a fundamental problem with many applications in AI and economics. In this paper, we present an algorithm for synthesizing sequential decision-making agents that optimize statistical properties such as maximum and average response times. In the general setting of sequential decision-making, the environment is modeled as a random process that generates inputs. The agent responds to each input, aiming to maximize rewards and minimize costs within a specified time horizon. The corresponding synthesis problem is known to be PSPACE-hard. We consider the special case where the input distribution, reward, and cost depend on input-output statistics specified by counter automata. For such problems, this paper presents the first PTIME synthesis algorithms. We introduce the notion of statistical abstraction, which clusters statistically indistinguishable input-output sequences into equivalence classes. This abstraction allows for a dynamic programming algorithm whose complexity grows polynomially with the considered horizon, making the statistical case exponentially more efficient than the general case. We evaluate our algorithm on three different application scenarios of a client-server protocol, where multiple clients compete via bidding to gain access to the service offered by the server. The synthesized policies optimize profit while guaranteeing that none of the server’s clients is disproportionately starved of the service.'
+date: 2024-02-01
+venue: '9th International Conference on Formal Structures for Computation and Deduction'
+slidesurl: 'http://KonstantinRK.github.io/files/24_slides_RP.pdf'
+paperurl: 'http://KonstantinRK.github.io/files/24_paper_statistical_abstraction.pdf'
+# citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+---
+
+The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
