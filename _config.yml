@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Konstantin Kueffner"
   pronouns         : # example: "she/her"  
-  bio              : "I am a PhD student at IST Austria, working under the supervision of Thomas A. Henzinger. My research focuses on the intersection of formal verification, statistics, and machine learning, with a particular emphasis on uncertainty quantification."
+  bio              : "I am a PhD student at IST Austria, working under the supervision of Thomas A. Henzinger."
   location         : "Austria"
   employer         : "IST Austria"
   uri              : # URL

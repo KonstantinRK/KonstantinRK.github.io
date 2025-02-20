@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Science, Institute of Science and Technology Austria, 2026 (expected)
+* M.S. Logic and Computation, Technical University Vienna, 2020
+* B.S. in Business and Business Information Systems, Vienna University of Economics and Business, 2016
 
 Work experience
 ======
