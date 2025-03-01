@@ -26,7 +26,7 @@ date: 2021-11-01
 venue: 'Master Thesis'
 #slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'http://KonstantinRK.github.io/files/21_paper_causality_survey.pdf'
-citation: ''
+# citation: ''
 ---
 
 The study of causality has recently gained traction in computer science. Formally
